@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e4147e8-715e-4de1-8594-ec676053816c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/GameMangerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameMangerController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FootballNazmul/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FootballNazmul/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ReadMe/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ReadMe/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ClockExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ClockExample.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +104,7 @@
       <workItem from="1683707919848" duration="4925000" />
       <workItem from="1683718754416" duration="3303000" />
       <workItem from="1683722649955" duration="2007000" />
+      <workItem from="1683729466048" duration="5582000" />
     </task>
     <servers />
   </component>
