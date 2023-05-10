@@ -7,7 +7,7 @@ using TMPro;
 public class ClockExample : MonoBehaviour
 {
     private TMP_Text textClock;
-    public float timeRemaining = 90;
+    public float timeRemaining = 5;
     public bool timerIsRunning = false;
     private void Start()
     {
@@ -27,9 +27,10 @@ public class ClockExample : MonoBehaviour
             }
             else
             {
-                //Debug.Log("Time has run out!");
                 timeRemaining = 0;
                 timerIsRunning = false;
+                RestartGame.ResetGame();
+                
             }
         }
     }

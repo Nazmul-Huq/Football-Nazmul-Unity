@@ -6,15 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9e4147e8-715e-4de1-8594-ec676053816c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FootballNazmul/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FootballNazmul/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/BallController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/BallController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ClockExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ClockExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RefreeWhistleController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RefreeWhistleController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ClockExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ClockExample.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +15,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RestartGame.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Text.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2PTJKIA5l4ZnkZanBVD859krnmE" />
@@ -103,7 +96,8 @@
       <workItem from="1683475083376" duration="841000" />
       <workItem from="1683478319231" duration="313000" />
       <workItem from="1683707919848" duration="4925000" />
-      <workItem from="1683718754416" duration="1046000" />
+      <workItem from="1683718754416" duration="3303000" />
+      <workItem from="1683722649955" duration="1784000" />
     </task>
     <servers />
   </component>
@@ -112,6 +106,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
