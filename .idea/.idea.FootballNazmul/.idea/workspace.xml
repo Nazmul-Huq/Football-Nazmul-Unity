@@ -4,19 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e4147e8-715e-4de1-8594-ec676053816c" name="Changes" comment="" />
+    <list default="true" id="9e4147e8-715e-4de1-8594-ec676053816c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FootballNazmul/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FootballNazmul/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BallController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BallController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RefreeWhistleController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RefreeWhistleController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectId" id="2PTJKIA5l4ZnkZanBVD859krnmE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -82,7 +92,14 @@
       <option name="presentableId" value="Default" />
       <updated>1683475079020</updated>
       <workItem from="1683475083376" duration="841000" />
-      <workItem from="1683478319231" duration="313000" />
+      <workItem from="1683478319231" duration="1158000" />
+      <workItem from="1683522564664" duration="3799000" />
+      <workItem from="1683526900914" duration="7082000" />
+      <workItem from="1683652220712" duration="1431000" />
+      <workItem from="1683654059617" duration="2817000" />
+      <workItem from="1683703369682" duration="23000" />
+      <workItem from="1683703418912" duration="2701000" />
+      <workItem from="1683706563026" duration="247000" />
     </task>
     <servers />
   </component>
@@ -92,6 +109,7 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
