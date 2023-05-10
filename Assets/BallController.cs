@@ -15,7 +15,6 @@ public class BallController : MonoBehaviour
     void Start()
     {
         rigidbody = GetComponent<Rigidbody>();
-        //rigidbody.velocity = transform.forward * 20f;
     }
 
     // Update is called once per frame
@@ -26,7 +25,12 @@ public class BallController : MonoBehaviour
 
     private void OnCollisionEnter(Collision other)
     {
-        rigidbody.MovePosition(transform.position + Vector3.forward * 100f * Time.fixedDeltaTime);
+        PlayerMovement playerMovement = other.gameObject.GetComponent<PlayerMovement>();
+        var deltaPosition = rigidbody.transform.position - playerMovement.Position;
+        deltaPosition.y = 0;
+        var forward = deltaPosition.normalized;
+        rigidbody.AddForce(forward * 1000f * Time.fixedDeltaTime, ForceMode.VelocityChange);
+        //rigidbody.MovePosition(transform.position + Vector3.forward * 100f * Time.fixedDeltaTime);
         
     }
     
